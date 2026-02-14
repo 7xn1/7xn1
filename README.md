@@ -4,5 +4,5 @@
 - C#
 - GDScript
 - C++/CPP
-- C [Still learning :)]
+- C
 - HTML/CSS
