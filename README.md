@@ -3,6 +3,6 @@
 ## Languages:
 - C#
 - GDScript
-- C++/CPP
+- C++
 - C
 - HTML/CSS
