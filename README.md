@@ -1,5 +1,4 @@
-## Languages:
-- C#
-- GDScript
-- HTML/CSS
-- Python
+## About Me:
+
+- Hobbyist Programmer
+- That's about it :/
